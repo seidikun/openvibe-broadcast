@@ -1,0 +1,22 @@
+###############################
+#	  Streaming Parameters    #
+###############################
+
+# Server's IP and socket
+SERVER_IP        = 127.0.0.1
+SOCKET           = 5678
+
+# Values come from OpenVibe
+CHANNELS         = 8
+ACQUISITION_FREQ = 128
+EPOCHS           = 16
+
+
+###############################
+#	Visualization Parameters  #
+###############################
+
+# Change it as you wish to get a better visualization 
+
+WINDOW           = 10 # seconds
+DO_FFT           = 1 # 1 = YES, 0 = NO
